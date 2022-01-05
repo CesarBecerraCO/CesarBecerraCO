@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Cesar! 
---
+-
 
 I am an Electrical Engineer since 2006 and MSc since 2010, while I was studying I decided to learn about programing. Since then, on every main subject I took, I applied my skills (HP48G+ and VBA Excel at that time) for creating applications oriented to design and analisys of Electrical Power Systems.
 

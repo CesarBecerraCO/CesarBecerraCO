@@ -9,7 +9,7 @@ I've experimented several technologies in the past like Java, C++, VB, nowadays 
 
 My main soft skills: comunication, leadership, teamwork, flexibility, adaptability, continuous learning.
 
-Well, this is what I consider a good "range", it allows me be more creative on what I do, having a better mindset structure and better problem-solving skills. Continuous learning is the basis of my professional and personal development.
+Well, this is what I consider a good "range", it allows me be more creative on what I do, having a better mindset structure and better problem-solving skills. Lifelong learning is the basis of my professional and personal growth.
 
 <!---
 CesarBecerraCO/CesarBecerraCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

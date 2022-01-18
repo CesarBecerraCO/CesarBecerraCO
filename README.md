@@ -1,15 +1,15 @@
 ## Hi there 👋 I am Cesar! 
 
 
-I'm an Electrical Engineer since 2006 and MSc since 2010, while I was studying I decided to learn about programing. Since then, on every main subject I took, I applied my skills (HP48G+ and VBA Excel at that time) for creating applications oriented to design and analisys of Electrical Power Systems.
+I'm an Electrical Engineer since 2006 and MSc since 2010, while I was studying I decided to learn about programing by my own. Since then, on every main subject I took, I applied my skills (HP48G+ and VBA Excel at that time) for creating applications oriented to designing and analisys of Electrical Power Systems.
 
 Although the main industry where I Work is in Energy, Electrical Utilities and SCADA/ADMS Real Time Systems (SIEMENS, SCHNEIDER ELECTRIC), along the time I have been improving/updating/appliyng my skills on Software Development, Data Analysis and Visualization. I use as much of my free time to do it possible, it worth the effort and I love Tech.
 
-I have experimented and applied several technologies in the past (like Java, C++, VB), nowadays more oriented to Python, Django, Git+GitHub, Microsoft Power Platform, BI, SQL Data Bases (MySQL, ORACLE, MS SQL SERVER, PosgreSQL), REST API, JSON, XML. I have knowledge also about HTML, JS, CSS and a basic understanding of CodeIgniter, REACT, Angular, Docker, Ruby on Rails. 
+I've experimented several technologies in the past (like Java, C++, VB), nowadays more oriented to Python, Django, Git+GitHub, Microsoft Power Platform, BI, SQL Data Bases (MySQL, ORACLE, MS SQL SERVER, PosgreSQL), REST API, JSON, XML. I also know a little of HTML, JS, CSS, CodeIgniter, REACT, Angular, Docker, Ruby on Rails. 
 
-I have also worked to improve my soft skills: comunication, leadership, teamwork, flexibility and Adaptability, mainly.
+My main soft skills: comunication, leadership, teamwork, flexibility and Adaptability.
 
-This is a good "range" that allows me be more creative on what I do, having a better mindset structure and better problem-solving skills.
+Well, this is what I consider a good "range", it allows me be more creative on what I do, having a better mindset structure and better problem-solving skills.
 
 <!---
 CesarBecerraCO/CesarBecerraCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

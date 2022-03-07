@@ -1,11 +1,11 @@
 ## Hi there 👋 I am Cesar! 
 
 
-I'm Electrical Engineer since 2006 and MSc since 2010. Since then I decided to learn about programing by my own, in most of the subjects I took, I applied my skills (HP48G+ and VBA Excel at that time) on creating applications oriented to Electrical Power Systems analysis and design.
+I'm Electrical Engineer since 2006 and MSc since 2010. Since then I decided to learn about programing by my own, on my first steps I was able to use my HP48G+ and VBA Excel for creating applications oriented to Electrical Power Systems analysis and design.
 
 Although the main industry where I Work is in Energy, Electrical Utilities and SCADA/ADMS Real Time Systems (SIEMENS, SCHNEIDER ELECTRIC), along the time I have been improving/updating/appliyng my skills on Software Development, Data Analysis and Visualization. I use as much of my free time to do it possible, it worth the effort and I love Tech.
 
-I've experimented several technologies in the past like Java, C++, VB, nowadays more oriented to Python, Django, Git+GitHub, Microsoft Power Platform, BI, SQL Data Bases (MySQL, ORACLE, MS SQL SERVER, PosgreSQL), REST API, JSON, XML. I also know a little of HTML, JS, CSS, CodeIgniter, React, Angular, Docker, Ruby on Rails.
+I've experimented several technologies in the past like Java, C++, VB, nowadays more oriented to Python, Django, Git+GitHub, Microsoft Power Platform, BI, SQL Data Bases (MySQL, ORACLE, MS SQL SERVER, PosgreSQL), API's, JSON, XML. I also know a little of HTML, JS, CSS, CodeIgniter, React, Angular, Docker, Ruby on Rails.
 
 My main soft skills: comunication, leadership, teamwork, flexibility, adaptability, continuous learning.
 
